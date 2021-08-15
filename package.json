@@ -1,0 +1,14 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "description": "The \"Game of Dice\" is a multiplayer game where N players roll a 6 faced dice in a round-robin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javed",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
