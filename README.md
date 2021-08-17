@@ -21,6 +21,7 @@
     * If a player rolls the value "1" two consecutive times, force to skip next chance
   After completion of each round of the game, rank table will be shown.
 
+3. And here is a screenshot of a round played : 
 
 ![diceGame](diceGame.PNG?raw=true "diceGame")
 
