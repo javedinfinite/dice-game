@@ -6,7 +6,7 @@ const targetPoints = reader.question("Target Points: ");
 console.log("\n")
 
 let rank = 0
-let roundCounter = 0
+let roundCounter = 1
 
 for (let i = 0; i < noPlayers; i++) {
     players.push({name:"Player-"+i, order:i, points:0, rank:0, penalty:0})
@@ -60,7 +60,7 @@ while(rank<noPlayers){
     }
  
     if(rank<noPlayers)
-        console.log(`\n****************************The round ${roundCounter++} got finished, Starting new round*********************************\n`)
+        console.log(`\n****************************The round ${roundCounter++} got finished, Starting  round ${roundCounter}*********************************\n`)
     else
         console.log("\n****************************Yeee...The game is finished now*********************************\n")
 

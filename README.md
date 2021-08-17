@@ -20,3 +20,7 @@
     * If a player rolls the value "6", reward with once chance
     * If a player rolls the value "1" two consecutive times, force to skip next chance
   After completion of each round of the game, rank table will be shown.
+
+
+![diceGame](diceGame.PNG?raw=true "diceGame")
+
